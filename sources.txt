@@ -1,0 +1,4 @@
+1 - Doküman           : https://www.frknyldz.net/python/
+2 - Bilgi Serisi      : https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ
+3 - Soru Cevap Serisi : https://www.youtube.com/watch?v=8cw8tkHhuDg&list=PLRzodrm7Zy5HhtqyYe3xdF_1mjLmkKOve
+4 - Web API (Flask)   : https://www.youtube.com/watch?v=gQB1TY6Imz8&list=PLRzodrm7Zy5F8whitdgaoLAYkSxw4lyqP
