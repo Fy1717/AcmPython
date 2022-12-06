@@ -19,3 +19,25 @@
 #     Kullanıcı ile aranızdaki yaş farkını anlamlı bir şekilde ekrana yazdırın
 #     (Örneğin: "Enes benden 3 yaş küçüktür")
 
+
+
+
+# 4 - Kullanıcıdan alınan sayılar ve yönlendirmelere göre hesap makinesi uygulaması
+#     Kullanıcı 1 sayı - işlem tipi - 1 sayı daha girer
+#     İşlem yapılır ve sonuç ekrana yazdırılır
+
+
+
+
+# 5 - 2 ayrı python dosyası açınız
+#     Birinde yazdır adında bir fonksiyon tanımlayınız
+#     Diğer python dosyasında da bu yazdır fonksiyonunu kullanınız
+
+
+
+# 6 - Bir listede bulunana 10 sayıdan en büyüğünü bulan kodu yazınız
+
+
+
+# 7 - Listedeki elemanların yerlerini tersine çeviren kodu yazınız
+#     Örnek = ["a", "b", "c", "d"] --> ["d", "c", "b", "a"] 
