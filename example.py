@@ -36,7 +36,7 @@ class User:
         
         
     def calcAge(self):
-        print(todays_date.year - self.birthyear)
+        print(self.todays_date.year - self.birthyear)
         
         
 user1 = User("Furkan", "Software Engineer", 1997)
